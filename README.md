@@ -76,3 +76,5 @@ Data can be obtained using the following patterns:
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/wwwfernand/showroom_api.
 
+## Donations
+Hey 👋 If I was able to helped you, please consider buying me a coffee. https://www.buymeacoffee.com/looney
